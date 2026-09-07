@@ -1,14 +1,14 @@
-# Hey, I'm Daniel✌🏻 
+# Hey, I'm Daniel ✌🏻 
 Just keep building.
 
 - 🎓 Graduated from the College of CS and Programming, Financial University
-- 🧠 Continuously learning and improving my development skills
-- 💻 Building projects and gaining hands-on experience
-- 🚀 Exploring new technologies and ideas
+- 🧠 Have a background in programming and continue learning
+- 💻 Exploring different technologies and building projects
+- 🔎 Gaining hands-on experience and growing as a developer
 
-# Tech Stack
+## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,tailwind,postgres,git,postman">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,tailwind,postgres,git,postman&perline=5">
 </p>
 
-keep in touch.
+<i>Learning by doing.</i>
