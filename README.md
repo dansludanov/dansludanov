@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Daniel✌🏻 
+Just keep building.
 
-<!--
-**dansludanov/dansludanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduated from the College of CS and Programming, Financial University
+- 🧠 Continuously learning and improving my development skills
+- 💻 Building projects and gaining hands-on experience
+- 🚀 Exploring new technologies and ideas
 
-Here are some ideas to get you started:
+# Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,tailwind,postgres,git,postman">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+keep in touch.
